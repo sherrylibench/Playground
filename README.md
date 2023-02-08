@@ -1,2 +1,2 @@
-# AOC2022
-https://adventofcode.com/
+# Playground
+Let's have some fun!
